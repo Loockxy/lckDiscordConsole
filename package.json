@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@citizenfx/discord.js": "^13.6.1"
+  }
+}
